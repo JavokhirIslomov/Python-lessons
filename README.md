@@ -1,1 +1,1 @@
-# Python-lessons
+My first duties are in Python\
